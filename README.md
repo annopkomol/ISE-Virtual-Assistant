@@ -54,7 +54,7 @@ $ export LINE_CHANNEL_SECRET=YOUR_LINE_CHANNEL_SECRET
 $ export LINE_CHANNEL_ACCESS_TOKEN=YOUR_LINE_CHANNEL_ACCESS_TOKEN
 $ export MONGODB_URI=YOUR_MONGODB_URI
 ```
-For using Dialogflow API, copy your credential (json file) from Google Cloud Platform to your project folder
+For using Dialogflow API (V2), copy your credential (json file) from Google Cloud Platform to your project folder
 
 ### Running the Server
 To run a web server on your development server, use the following command on your project folder
