@@ -62,7 +62,7 @@ To run a web server on your development server, use the following command on you
 $ python3 bot.py
 ```
 Note: the deployment for this project was done on Heroku, so if you run this project on your local machine or other platforms, you
-do not have to include ```procfile``` and ```runtime.txt``` on your project
+do not have to include ```procfile``` and ```runtime.txt``` on your project folder.
 
 ## Architecture Design
 <div align="center"><img src="/Screenshots/ss3.png" width="70%" height="70%"></div>
